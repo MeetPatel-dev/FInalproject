@@ -1,0 +1,45 @@
+.fotter-class{
+    height: 40rem;
+    background-color: #1b71bb;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.main-meet{
+    height: 50rem;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+    
+}
+.fotter-class >p:nth-of-type(1){
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.2rem;
+    padding-top: 35px;
+    
+    
+
+
+
+}
+.shadow{
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+}
+.meet-head-poster > h2:nth-of-type(2){
+    margin-top: -30px;
+    font-size: 3rem;
+    color: white;
+
+}
+.meet-head-poster > h2:nth-of-type(1){
+    
+    font-size: 3rem;
+    color: white;
+    
+}
