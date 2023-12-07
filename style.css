@@ -1,5 +1,5 @@
 .fotter-class{
-    height: 40rem;
+    height: auto;
     background-color: #1b71bb;
     margin: 0;
     padding: 0;
@@ -7,6 +7,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    padding-bottom: 50px;
 
 }
 .main-meet{
@@ -22,10 +23,12 @@
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 0.2rem;
     padding-top: 35px;
-    
-    
-
-
+}
+.fotter-class > p {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.2rem;
+    font-size: 20px;
 
 }
 .shadow{
@@ -42,4 +45,21 @@
     font-size: 3rem;
     color: white;
     
+}
+.fotter-class > button{
+    padding: 20px 20px;
+    letter-spacing: 5px;
+    border-radius: 8px;
+    border: none;
+    color: #1b71bb;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.fotter-class > img{
+    position: relative;
+    margin-top: 60px;
+    border-radius: 15px;
 }
