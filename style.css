@@ -137,3 +137,20 @@
 div.profile-name-1>p:nth-of-type(1) {
     margin: 0;
 }
+.Twitterlink{
+    border-bottom: 2px red solid;
+    width: 19%;
+    margin: 30px auto;
+
+}
+.Twitterlink > a{
+    text-decoration: none;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+.finalfotter{
+    background-color: #D33A2C;
+    height: 40rem;
+    margin: 0;
+}
