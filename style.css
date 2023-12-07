@@ -163,3 +163,96 @@ div.profile-name-1>p:nth-of-type(1) {
     font-size: 18px;
     padding-top: 24px;
 }
+.arthur-container{
+    display: flex;
+    
+    justify-content: center;
+    
+}
+.arthur-left-content{
+    display: flex;
+    flex-wrap: wrap;
+    width:40%;
+    height: 1500px;
+    
+
+}
+.arthur-left-first{
+
+     width: 75%;
+     padding: 10px;
+    
+}
+.arthur-name{
+    text-decoration: underline;
+    color: red;
+    font-size: large;
+}
+.arthur-image-1{
+    height: 100px;
+    width: 20%;
+    
+}
+.arthur-left-second{
+    width: 75%;
+}
+.arthur-image-2{
+    width: 20%;
+}
+.arthur-image-3{
+    width: 20%;
+}
+.arthur-left-third{
+    width: 75%;
+}
+.arthur-image-4{
+    width: 20%;
+}
+.arthur-left-forth{
+    width: 75%;
+}
+.arthur-right-content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+   
+}
+.arthur-image-5{
+    width: 20%;
+}
+.arthur-right-first{
+    
+    width: 75%;
+}
+.arthur-image-6{
+    width: 20%;
+}
+.arthur-right-second{
+    width: 75%;
+}
+.arthur-image-7{
+    width: 20%;
+}
+.arthur-right-third{
+    width: 75%;
+}
+.arthur-image-8{
+    width: 20%;
+}
+.arthur-right-fourth{
+    width: 75%;
+}
+.arthur-title{
+    font-family: helvetica;
+}
+.arthur-subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: #333;
+    
+    
+}
+a{
+    color: #666666;
+    font-size: large;
+}
